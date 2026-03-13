@@ -1,0 +1,6 @@
+var/log/
+etc/keys/*.pub
+etc/gate.json
+etc/policies/active.policy.json
+.env
+*.key
